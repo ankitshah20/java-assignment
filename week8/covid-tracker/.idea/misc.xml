@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/actitity_lp_detect.xml" value="0.17299898682877407" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_data_entry.xml" value="0.17299898682877407" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_highaffect.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17299898682877407" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17299898682877407" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/car_info_details.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout/custominput.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_query.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/item_data.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/profile.xml" value="0.17299898682877407" />
+        <entry key="app/src/main/res/layout/update_dialog.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
